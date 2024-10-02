@@ -1,0 +1,1 @@
+run 'npm start' and open localhost port-5173

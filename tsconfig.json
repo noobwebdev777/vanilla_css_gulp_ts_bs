@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./public/js",
+    "rootDir": "./src/ts",
+    "sourceMap": true,
+    "incremental": true
+  },
+  "include": ["src/ts/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
